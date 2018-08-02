@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
 //using Microsoft.Office.Interop.Word;
-using Code7248.word_reader; // Может и .doc тоже
+using Code7248.word_reader;
 
 namespace DemoEncrypter
 {
@@ -61,7 +61,7 @@ namespace DemoEncrypter
 
             return temp;
         }
-        // Заморочился с возможностью открывать текстовые файлы для зашифровки содержимого (без сохранения обратно, хех)
+        // Заморочился с возможностью открывать текстовые файлы для зашифровки содержимого (без сохранения обратно)
         private void tsmiOpen_Click(object sender, EventArgs e)
         {
             OpenFileDialog openFile = new OpenFileDialog();
@@ -118,10 +118,7 @@ namespace DemoEncrypter
                 Clipboard.Clear();
             Clipboard.SetText(tbOut.Text);
         }
-        // Фокус на текстбокс с исходным текстом
-        //private void MainForm_Shown(object sender, EventArgs e)
-        //{
-        //    rtbIn.Focus();
-        //}
+        // Проблему с фокусом на текстовой форме ввода решил в визуальном конструкторе 
+        // заданием номера в свойстве TabIndex элемента формы
     }
 }
