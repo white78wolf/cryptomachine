@@ -1,0 +1,11 @@
+C:\Users\Андрей\Documents\Visual Studio 2012\Projects\CryptoMachine\DemoEncrypter\bin\Debug\DemoEncrypter.exe.config
+C:\Users\Андрей\Documents\Visual Studio 2012\Projects\CryptoMachine\DemoEncrypter\bin\Debug\DemoEncrypter.exe
+C:\Users\Андрей\Documents\Visual Studio 2012\Projects\CryptoMachine\DemoEncrypter\bin\Debug\DemoEncrypter.pdb
+C:\Users\Андрей\Documents\Visual Studio 2012\Projects\CryptoMachine\DemoEncrypter\obj\Debug\DemoEncrypter.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Documents\Visual Studio 2012\Projects\CryptoMachine\DemoEncrypter\obj\Debug\DemoEncrypter.Properties.Resources.resources
+C:\Users\Андрей\Documents\Visual Studio 2012\Projects\CryptoMachine\DemoEncrypter\obj\Debug\DemoEncrypter.csproj.GenerateResource.Cache
+C:\Users\Андрей\Documents\Visual Studio 2012\Projects\CryptoMachine\DemoEncrypter\obj\Debug\DemoEncrypter.exe
+C:\Users\Андрей\Documents\Visual Studio 2012\Projects\CryptoMachine\DemoEncrypter\obj\Debug\DemoEncrypter.pdb
+C:\Users\Андрей\Documents\Visual Studio 2012\Projects\CryptoMachine\DemoEncrypter\obj\Debug\DemoEncrypter.MainForm.resources
+C:\Users\Андрей\Documents\Visual Studio 2012\Projects\CryptoMachine\DemoEncrypter\bin\Debug\Code7248.word_reader.dll
+C:\Users\Андрей\Documents\Visual Studio 2012\Projects\CryptoMachine\DemoEncrypter\obj\Debug\DemoEncrypter.csproj.ResolveComReference.cache
